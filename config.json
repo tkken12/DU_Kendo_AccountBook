@@ -1,0 +1,6 @@
+{ 
+    "apiServerBase" : "https://openapi.openbanking.or.kr/oauth/2.0",
+    "authorize": "https://openapi.openbanking.or.kr/oauth/2.0/authorize",
+    "token": "https://openapi.openbanking.or.kr/oauth/2.0/token",
+    "timeout": 3000
+}
